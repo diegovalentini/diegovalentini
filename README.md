@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy Diego 👋
 
-<!--
-**diegovalentini/diegovalentini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador autodidacta desde hace 2 años. No tengo estudios formales en programación, pero aprendí creando proyectos reales:
 
-Here are some ideas to get you started:
+- 🅿️ **Estacionamiento Azul** – App en Flutter + Firebase para gestionar plazas de parking en tiempo real. La App es usada por un empresa real, y fue uno de mis primeros proyectos reales.
+- 🅿️ **Estacionamiento Web**  - Misma idea que la de estacionamiento azul, pero usando distinto lenguaje, utilice html, css, js y firebase. 
+- 🌐 **Portafolio Web** – Sitio web con React donde muestro mis proyectos y experiencia. Aprendi a usar React y node.js haciendo este sitio, sigo aprendiendo!
+- 🏨 **WarRunning** – Es una App de running que se diferencia de las convencionales. Utilice Flutter, dart, firebase, google apis.
+- 🤖 **Automatización y extensiones** – Pequeños scripts y pruebas para automatizar tareas y crear extensiones de navegador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lo que más me define es esto:  
+> Cuando aparece un problema, no paro hasta encontrar una solución.
+
+---
+
+🔧 Tecnologías con las que trabajo
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Mobile:** Flutter (Dart)
+- **Backend/Cloud:** Firebase (Auth, Firestore) - node.js
+- **Otros:** Git, GitHub
+
+---
+
+## 🎯 Qué busco
+
+- Mi objetivo es seguir creciendo como desarrollador **Full Stack**.
+- Me interesa trabajar en proyectos reales, aprender buenas prácticas y colaborar en equipo.
+
+---
+
+## 📫 Cómo contactarme
+
+- Email: diego_valentini16@hotmail.com
+- LinkedIn: -
