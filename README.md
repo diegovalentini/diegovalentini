@@ -13,7 +13,7 @@ Lo que más me define es esto:
 
 ---
 
-🔧 Tecnologías con las que trabajo
+**🔧 Tecnologías con las que trabajo**
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Mobile:** Flutter (Dart)
