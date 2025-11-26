@@ -32,4 +32,4 @@ Lo que más me define es esto:
 ## 📫 Cómo contactarme
 
 - Email: diego_valentini16@hotmail.com
-- LinkedIn: -
+- LinkedIn: https://www.linkedin.com/in/diegovalentini
