@@ -33,3 +33,4 @@ Lo que más me define es esto:
 
 - Email: diego_valentini16@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/diegovalentini
+- Portafolio: https://diegovalentini.github.io/portafolio/
