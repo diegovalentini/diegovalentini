@@ -1,6 +1,6 @@
 # Hola, soy Diego 👋
 
-Soy desarrollador autodidacta desde hace 2 años. No tengo estudios formales en programación, pero aprendí creando proyectos reales:
+Me meti al mundo de la programación hace unos 3 años. No tengo estudios formales en programación, pero aprendí creando proyectos reales:
 
 - 🅿️ **Estacionamiento Azul** – App en Flutter + Firebase para gestionar plazas de parking en tiempo real. La App es usada por un empresa real, y fue uno de mis primeros proyectos reales.
 - 🅿️ **Estacionamiento Web**  - Misma idea que la de estacionamiento azul, pero usando distinto lenguaje, utilice html, css, js y firebase. 
@@ -24,7 +24,7 @@ Lo que más me define es esto:
 
 ## 🎯 Qué busco
 
-- Mi objetivo es seguir creciendo como desarrollador **Full Stack**.
+- Mi objetivo es seguir creciendo como desarrollador.
 - Me interesa trabajar en proyectos reales, aprender buenas prácticas y colaborar en equipo.
 
 ---
